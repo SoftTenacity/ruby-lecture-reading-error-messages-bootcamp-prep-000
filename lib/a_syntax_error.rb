@@ -1,5 +1,5 @@
 x = 1
-puts "x1 = " + x1
+puts "x1 = " + x
 
 x = 2
-puts "x2 = " + x2
+puts "x2 = " + x
